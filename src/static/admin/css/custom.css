@@ -1,0 +1,147 @@
+
+.huge {
+    font-size: 40px;
+}
+
+.panel-green {
+    border-color: #5cb85c;
+}
+
+.panel-green .panel-heading {
+    border-color: #5cb85c;
+    color: #fff;
+    background-color: #5cb85c;
+}
+
+.panel-green a {
+    color: #5cb85c;
+}
+
+.panel-green a:hover {
+    color: #3d8b3d;
+}
+
+.panel-red {
+    border-color: #d9534f;
+}
+
+.panel-red .panel-heading {
+    border-color: #d9534f;
+    color: #fff;
+    background-color: #d9534f;
+}
+
+.panel-red a {
+    color: #d9534f;
+}
+
+.panel-red a:hover {
+    color: #b52b27;
+}
+
+.panel-purple{
+    border-color: #503875;
+}
+.panel-purple .panel-heading {
+    border-color: #503875;
+    color: #fff;
+    background-color: #503875;
+}
+
+.panel-purple a {
+    color: #503875;
+}
+
+.panel-brown{
+    border-color: #996633;
+}
+
+.panel-brown .panel-heading{
+    
+    border-color: #996633;
+    color: #fff;
+    background-color: #996633;
+}
+
+.panel-brown a{
+    color: #996633;
+}
+
+.panel-veige{
+    border-color: #996600;
+}
+
+.panel-veige .panel-heading{
+    
+    border-color: #996600;
+    color: #fff;
+    background-color: #996600;
+}
+
+.panel-veige a{
+    color: #996600;
+}
+
+
+.panel-soft-red{
+    border-color: #FF3300;
+}
+
+.panel-soft-red .panel-heading{
+    
+    border-color: #FF3300;
+    color: #fff;
+    background-color: #FF3300;
+}
+
+.panel-soft-red a{
+    color: #FF3300;
+}
+
+.panel-soft-green{
+    border-color: #009999;
+}
+
+.panel-soft-green .panel-heading{
+    
+    border-color: #009999;
+    color: #fff;
+    background-color: #009999;
+}
+
+.panel-soft-green a{
+    color: #009999;
+}
+
+
+.panel-yellow {
+    border-color: #f0ad4e;
+}
+
+.panel-yellow .panel-heading {
+    border-color: #f0ad4e;
+    color: #fff;
+    background-color: #f0ad4e;
+}
+
+.panel-yellow a {
+    color: #f0ad4e;
+}
+
+.panel-yellow a:hover {
+    color: #df8a13;
+}
+
+.navbar-brand img{
+    display:inline;
+    margin-top: -15px;
+}
+
+
+#holder {
+    border: 10px dashed #ccc;
+    margin: 20px auto;
+    max-height: 450px;
+    min-height: 300px;
+    overflow: auto;
+}
